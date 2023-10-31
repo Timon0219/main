@@ -3,7 +3,7 @@ import React from "react";
 export default function VsCode() {
   return (
     <iframe
-      src="https://github.com/FrostSnow0219/ubuntu"
+      src="https://github.com/FrostSnow0219/main"
       frameBorder="0"
       title="VsCode"
       className="h-full w-full bg-ub-cool-grey"
