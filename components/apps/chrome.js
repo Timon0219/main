@@ -6,7 +6,7 @@ export class Chrome extends Component {
     this.home_url = "https://joiner-forward.vercel.app/";
     this.state = {
       url: "https://joiner-forward.vercel.app/portfolio",
-      display_url: "https://www.google.com",
+      display_url: "https://joiner-forward.vercel.app",
     };
   }
 
